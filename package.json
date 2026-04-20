@@ -1,0 +1,23 @@
+{
+  "name": "toc-project",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^6.0.1",
+    "vite": "^8.0.4"
+  },
+  "dependencies": {
+    "cytoscape": "^3.33.2",
+    "cytoscape-dagre": "^2.5.0",
+    "dagre": "^0.8.5",
+    "lucide-react": "^1.8.0",
+    "react": "^19.2.5",
+    "react-dom": "^19.2.5"
+  }
+}
