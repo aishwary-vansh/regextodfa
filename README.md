@@ -29,7 +29,7 @@ Every algorithm is implemented **from scratch in pure JavaScript** — no parser
 
 ## Live Demo
 
-> _Deploy link here (e.g. Vercel / GitHub Pages)_
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green)](https://regex-dfa-visualizer.vercel.app/)
 
 ---
 
