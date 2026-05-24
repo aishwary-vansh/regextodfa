@@ -29,7 +29,6 @@ Every algorithm is implemented **from scratch in pure JavaScript** — no parser
 
 ## Live Demo
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-green)](https://regex-dfa-visualizer.vercel.app/)
 
 ---
 
